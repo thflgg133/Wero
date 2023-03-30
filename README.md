@@ -26,29 +26,29 @@
   
 ### The importance of health
 The growing emphasis on the significance of health in today's society is ***undeniable***, as it holds a prime position among the most crucial values in our lives. When we possess good health, it enables us to pursue more and lead a contented life. Conversely, if our health is poor, it may bring discomfort in daily activities and cause a decline in the quality of our lives. Therefore, maintaining good health is pivotal, as it constitutes one of the most critical factors that contribute to enhancing the overall happiness and quality of our lives.
-  
+<br/><br/>  
 ### Physical health
   - Physical health refers to the state of the body being healthy and full of energy.
   - Maintaining physical health is important through regular exercise and proper eating habits, among other factors.
   - When physical health is good, individuals can do more in their daily lives, and having a healthy body is necessary for maintaining good mental health as well.
-
+<br/><br/>
 ### Mental health
   - Mental health refers to a healthy and stable state of mind.
   - Good mental health leads to a happier life and can also contribute to maintaining good physical health.
   - Maintaining mental health requires managing stress, getting enough rest and sleepand practicing proper self-care, among other things.
-  
-
+<br/><br/>  
 ## What is Sustainable Development Goals?
 
 ![image](https://user-images.githubusercontent.com/33146152/160327143-e36bb1b9-ccea-4f96-b3b2-d92338dd56c5.png)
 
 The Sustainable Development Goals (SGDs) or Global Goals are a collection of 17 interlinked global goals designed to be a "blueprint to achieve a better and more sustainable future for all.
 As can be seen in the figure above, there are 17 goals.
-
+<br/><br/>
 ### Our goal
 #### Good Health and Well-Being
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/33146152/160327288-21a43bdc-3de2-4d36-a26e-9953dc86bc4f.png">
-Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups. <br/><br/>
+Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups. 
+<br/><br/>
 We decided to create a Flutter application with the goal of ensuring health and promoting well-being for all age groups, among the United Nations' 17 sustainable development goals (SDGs). After the COVID-19 pandemic, we came across an article stating that there is a significant increase in people's interest in health. After reading this article, we began developing an application with the main idea of diagnosing the health status of people all over the world and managing their health through the application, especially for those who are too busy to take care of their health.
   
 
