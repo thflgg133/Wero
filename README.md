@@ -213,22 +213,9 @@ Health applications can assist users in maintaining healthy social relationships
 
 ## Contributor
 <table>
-    <td align="center"><img src="" width="100px;" alt=""/><br /><b>Min Ye Choi</b><br/><img src="https://img.shields.io/badge/Design-UI/UX-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/82595288/228873975-25afa9b4-c548-4be7-9ae8-7038fd054f8c.jpg" width="100px;" alt=""/><br /><b>Jeong Beom Han</b><br/><img src="https://img.shields.io/badge/Front-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/74396651?v=4" width="100px;" alt=""/><br /><b>Seong Ho Kim</b><br/><img src="https://img.shields.io/badge/Back-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/82595288?v=4" width="100px;" alt=""/><br /><b>Min Ki Son</b><br/><img src="https://img.shields.io/badge/Machine-Learing-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/127945348?v=4" width="100px;" alt=""/><br /><b>[Min Ye Choi](https://github.com/Celia63)</b><br/><img src="https://img.shields.io/badge/Design-UI/UX-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/56466165?v=4" width="100px;" alt=""/><br /><b>[Jeong Beom Han](https://github.com/dino2331?tab=repositories)</b><br/><img src="https://img.shields.io/badge/Front-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/74396651?v=4" width="100px;" alt=""/><br /><b>[Seong Ho Kim](https://github.com/OOOIOOOIO)</b><br/><img src="https://img.shields.io/badge/Back-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/82595288?v=4" width="100px;" alt=""/><br /><b>[Min Ki Son](https://github.com/thflgg133)</b><br/><img src="https://img.shields.io/badge/Machine-Learing-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
   <tr>
 <table>
-
-<br>
-<hr>
-<br>
-  
-## Contact US
-[Min Ye Choi](https://github.com/Celia63)
-<br>
-[Jeong Beom Han](https://github.com/dino2331?tab=repositories)
-<br>
-[Seong Ho Kim](https://github.com/OOOIOOOIO)
-<br>
-[Son Min Ki](https://github.com/thflgg133)
