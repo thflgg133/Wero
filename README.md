@@ -29,10 +29,10 @@
 
 ## Getting_Started
 
-### What is Plogging?
+### Importance of Health
 
 <p align="center">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/87767242/161135838-2b728bb3-04cf-4a15-8574-3038fe0c1e91.jpg">  
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/82595288/228840596-f94e6248-8d52-4a7d-a6ac-16b23566fcac.png">  
 
 ***`Just jogging and Just pick up the trash!`***   
 Plogging is a combination of Jogging with picking up litter merging the Swedish verbs ***plocka*** upp (pick up) and ***jogga***(jog) gives the new Swedish verb ***plogga***.
