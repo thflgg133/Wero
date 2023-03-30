@@ -220,3 +220,12 @@ Health applications can assist users in maintaining healthy social relationships
   <tr>
 <table>
 
+<br>
+<hr>
+<br>
+  
+## Contact US
+[Min Ye Choi](https://github.com/Celia63)
+[Jeong Beom Han](https://github.com/dino2331?tab=repositories)
+[Seong Ho Kim](https://github.com/OOOIOOOIO)
+[Son Min Ki](https://github.com/thflgg133)
