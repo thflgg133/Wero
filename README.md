@@ -2,7 +2,7 @@
 
 # Wero: A health protector for all of us
 
-<img width="204" alt="image" src="https://user-images.githubusercontent.com/33146152/160340503-af84e553-2636-47cd-9523-317976090023.png">
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/82595288/228839279-8e8064ec-f703-4d1b-80c5-8c7ce71b6d23.PNG">
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#Contributors)
