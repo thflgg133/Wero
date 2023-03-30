@@ -61,22 +61,17 @@ The Sustainable Development Goals (SGDs) or Global Goals are a collection of 17 
 As can be seen in the figure above, there are 17 goals.
 
 ### Our goal
-
+We decided to create a Flutter application with the goal of ensuring health and promoting well-being for all age groups, among the United Nations' 17 sustainable development goals (SDGs). After the COVID-19 pandemic, we came across an article stating that there is a significant increase in people's interest in health. After reading this article, we began developing an application with the main idea of diagnosing the health status of people all over the world and managing their health through the application, especially for those who are too busy to take care of their health.
+  
 Our Team "Wero" aims to ensure health and promote the welfare of people of all ages.
 These days, modern people do not show and express their emotions well, so it has been confirmed that mental fatigue increases and affects the body.
 In this situation, we developed wero, an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
-![image](https://user-images.githubusercontent.com/82595288/228847313-42dfb872-36ef-4b68-82f4-ebe27cb4d94a.png)
 
 
 #### Good Health and Well-Being
 
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/33146152/160327288-21a43bdc-3de2-4d36-a26e-9953dc86bc4f.png">
-Plogging is an activity to pick up trash while running. App users can improve their health while using this application. Also they can do "well-being" by sharing their progress with people around the world and friends.
-
-#### Responsible consumption and production
-
-<img width="146" alt="image" src="https://user-images.githubusercontent.com/33146152/160338918-1069a764-d3ce-43cb-ae23-2f597ae0d161.png">
-As mentioned above, the positive aspects of the environment and sustainable consumption can ve derived through the action of picking up recycled waste.
+Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
 
 ### The reason why we named "Isak"
 
