@@ -50,14 +50,17 @@ As can be seen in the figure above, there are 17 goals.
 Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups. 
 <br/><br/>
 We decided to create a Flutter application with the goal of ensuring health and promoting well-being for all age groups, among the United Nations' 17 sustainable development goals (SDGs). After the COVID-19 pandemic, we came across an article stating that there is a significant increase in people's interest in health. After reading this article, we began developing an application with the main idea of diagnosing the health status of people all over the world and managing their health through the application, especially for those who are too busy to take care of their health.
-  
-
-
+<br/><br/>
 ### The reason why we named "Wero"
 ![image](https://user-images.githubusercontent.com/82595288/228853918-aa32e6e4-3823-4547-8845-95c0c072c8ec.png)
   
 "Wero" means "Consolation" in Korean. Additionally, "Wero" is an abbreviation of "We are around u," which represents our commitment to always be by the user's side, managing their physical and mental health. With the slogan "When you feel tired and exhausted, join us. I'm always waiting for you in this place," "Wero" is an app that provides users with the gift of health.
+<br/><br/>
+### Expected effect
+![image](https://user-images.githubusercontent.com/82595288/228863954-2b41d857-3282-4da6-8fb9-cc7e4d806263.png)
 
+
+  
 ## Components
 
 <img src="https://user-images.githubusercontent.com/33146152/160340776-616bc1a4-dd52-40a5-8e9f-dea06cd16952.png" width="200" height="100">  <img src="https://user-images.githubusercontent.com/33146152/160340848-f25eb360-157c-4988-a2c4-7e9e9034b0f4.png" width="200" height="100">  <img src="https://user-images.githubusercontent.com/33146152/160341014-57c3e47f-b268-40bb-bac0-b01bd03ca8c3.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/33146152/160341802-7eceab71-16af-46c9-a74f-840c030c3abc.png" width="150" height="100">
