@@ -7,7 +7,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#Contributors)
 
-2022-GDSC-Solution-Challenge flutter project
+2023 GDSC Solution Challenge Project
 
 ## Table of Contents
 
