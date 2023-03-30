@@ -50,13 +50,9 @@ The growing emphasis on the significance of health in today's society is ***unde
 ### Mental health
   - Mental health refers to a healthy and stable state of mind.
   - Good mental health leads to a happier life and can also contribute to maintaining good physical health.
-  - Maintaining mental health requires managing stress, getting enough rest and sleepand practicing proper 
-  self-care, among other things.
+  - Maintaining mental health requires managing stress, getting enough rest and sleepand practicing proper self-care, among other things.
   
 
-
-  
-  
 ## What is Sustainable Development Goals?
 
 ![image](https://user-images.githubusercontent.com/33146152/160327143-e36bb1b9-ccea-4f96-b3b2-d92338dd56c5.png)
@@ -66,7 +62,11 @@ As can be seen in the figure above, there are 17 goals.
 
 ### Our goal
 
-We selected several of the UN's 17 sustainable development goals to create an flutter application. And we found activities that can take care of my health and help the environment. After that, we found the actrivity "plogging", and we thought it would be nice if we could add additional features to draw interest from users.
+Our Team "Wero" aims to ensure health and promote the welfare of people of all ages.
+These days, modern people do not show and express their emotions well, so it has been confirmed that mental fatigue increases and affects the body.
+In this situation, we developed wero, an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
+![image](https://user-images.githubusercontent.com/82595288/228847313-42dfb872-36ef-4b68-82f4-ebe27cb4d94a.png)
+
 
 #### Good Health and Well-Being
 
