@@ -50,8 +50,8 @@ The growing emphasis on the significance of health in today's society is ***unde
 ### Mental health
   - Mental health refers to a healthy and stable state of mind.
   - Good mental health leads to a happier life and can also contribute to maintaining good physical health.
-  - Maintaining mental health requires managing stress, getting enough rest and sleep
-    and practicing proper self-care, among other things.
+  - Maintaining mental health requires managing stress, getting enough rest and sleepand practicing proper 
+  self-care, among other things.
   
 
 
