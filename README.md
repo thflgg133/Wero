@@ -47,6 +47,15 @@ The growing emphasis on the significance of health in today's society is ***unde
 
 
   
+### Physical health
+  - Physical health refers to the state of the body being healthy and full of energy.
+  - Maintaining physical health is important through regular exercise and proper eating habits, among other factors.
+  - When physical health is good, individuals can do more in their daily lives, and having a healthy body is necessary for maintaining good mental health as well.
+
+  
+### Mental health
+
+  
   
 ## What is Sustainable Development Goals?
 
