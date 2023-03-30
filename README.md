@@ -214,7 +214,7 @@ Health applications can assist users in maintaining healthy social relationships
 ## Contributor
 <table>
   <tr>
-    <td align="center"><img src="" width="100px;" alt=""/><br /><b>Min Ye Choi</b><br/><img src="https://img.shields.io/badge/Design-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
+    <td align="center"><img src="" width="100px;" alt=""/><br /><b>Min Ye Choi</b><br/><img src="https://img.shields.io/badge/Design-UI/UX-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/33146152?v=4" width="100px;" alt=""/><br /><b>Jeong Beom Han</b><br/><img src="https://img.shields.io/badge/Front-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/33146152?v=4" width="100px;" alt=""/><br /><b>Seong Ho Kim</b><br/><img src="https://img.shields.io/badge/Back-end-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/82595288?v=4" width="100px;" alt=""/><br /><b>Min Ki Son</b><br/><img src="https://img.shields.io/badge/Machine-Learing-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></td>
