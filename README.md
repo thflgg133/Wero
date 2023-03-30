@@ -34,7 +34,9 @@
 <p align="center">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/82595288/228840596-f94e6248-8d52-4a7d-a6ac-16b23566fcac.png">  
 
-***`Don't give up! We're always by your side.`***   
+***`Don't give up! We're always by your side.`***
+  Health refers to a state in which the body and mind are functioning well without any pain or discomfort. It signifies complete functioning and well-being in terms of an individual's ***physiological***, ***psychological***, and ***social aspects***. Health is associated with vitality, energy, and quality of life that we experience on a daily basis.
+
 Plogging is a combination of Jogging with picking up litter merging the Swedish verbs ***plocka*** upp (pick up) and ***jogga***(jog) gives the new Swedish verb ***plogga***.
 The key to plogging is not just the concept of environmental protection of picking up trash, but approaching picking up trash as one of the health-training exercises. The advantage is that it consumes more physical strength than general jogging. While jogging normally with a garbage bag, if you encounter illegally dumped garbage, pick it up and put it in a garbage bag.
 In fact, according to a survey by Swedish fitness app Life Island, people who jog only for 30 minutes consume an average of 235kcal, but those who plogging at the same time consume 288kcal. In other words, it doubles the effectiveness of exercise.
