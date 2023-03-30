@@ -71,23 +71,6 @@ We decided to create a Flutter application with the goal of ensuring health and 
 ![image](https://user-images.githubusercontent.com/82595288/228853918-aa32e6e4-3823-4547-8845-95c0c072c8ec.png)
   
 "Wero" means "Consolation" in Korean. Additionally, "Wero" is an abbreviation of "We are around u," which represents our commitment to always be by the user's side, managing their physical and mental health. With the slogan "When you feel tired and exhausted, join us. I'm always waiting for you in this place," "Wero" is an app that provides users with the gift of health.
-<br/><br/>
-### Expected effect
-![image](https://user-images.githubusercontent.com/82595288/228863954-2b41d857-3282-4da6-8fb9-cc7e4d806263.png)
-#### Better Lifestyle Habits
-Using health applications can improve  dietary habits, exercise routines, and sleep habits, ultimately leading to a healthier lifestyle.
-<br/><br/> 
-![image](https://user-images.githubusercontent.com/82595288/228864130-2f04a135-41f0-49f6-9ab8-6d70c33be9f2.png)
-#### Stress Reduction
-Applications equipped with stress management features can help users manage and reduce stress more effectively.
-<br/><br/> 
-![image](https://user-images.githubusercontent.com/82595288/228864181-857a1cb9-7f05-4dcd-a38e-0a42f6e951f9.png)
-#### Personalized Advice
-Health applications can provide tailored advice based on the user's health status, allowing them to discover individualized health management strategies.
-<br/><br/> 
-![image](https://user-images.githubusercontent.com/82595288/228864246-1b0073be-6ba4-44b3-9ffc-e5eccc4a6f51.png)
-#### Healthy Social Relationships
-Health applications can assist users in maintaining healthy social relationships.
 
 <br>
 <hr>
@@ -203,7 +186,21 @@ Health applications can assist users in maintaining healthy social relationships
 <br>
 
 ## Expected-effect
-
+![image](https://user-images.githubusercontent.com/82595288/228863954-2b41d857-3282-4da6-8fb9-cc7e4d806263.png)
+#### Better Lifestyle Habits
+Using health applications can improve  dietary habits, exercise routines, and sleep habits, ultimately leading to a healthier lifestyle.
+<br/><br/> 
+![image](https://user-images.githubusercontent.com/82595288/228864130-2f04a135-41f0-49f6-9ab8-6d70c33be9f2.png)
+#### Stress Reduction
+Applications equipped with stress management features can help users manage and reduce stress more effectively.
+<br/><br/> 
+![image](https://user-images.githubusercontent.com/82595288/228864181-857a1cb9-7f05-4dcd-a38e-0a42f6e951f9.png)
+#### Personalized Advice
+Health applications can provide tailored advice based on the user's health status, allowing them to discover individualized health management strategies.
+<br/><br/> 
+![image](https://user-images.githubusercontent.com/82595288/228864246-1b0073be-6ba4-44b3-9ffc-e5eccc4a6f51.png)
+#### Healthy Social Relationships
+Health applications can assist users in maintaining healthy social relationships.
 <br>
 <hr>
 <br>
