@@ -59,7 +59,7 @@ We decided to create a Flutter application with the goal of ensuring health and 
 <br/><br/>
 ### Expected effect
 ![image](https://user-images.githubusercontent.com/82595288/228863954-2b41d857-3282-4da6-8fb9-cc7e4d806263.png)
-#### Better Lifestyle Habits
+#### ***Better Lifestyle Habits***
 Using health applications can improve  dietary habits, exercise routines, and sleep habits, ultimately leading to a healthier lifestyle.
 <br/><br/> 
 ![image](https://user-images.githubusercontent.com/82595288/228864130-2f04a135-41f0-49f6-9ab8-6d70c33be9f2.png)
