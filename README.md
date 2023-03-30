@@ -29,7 +29,7 @@
 
 ## Getting_Started
 
-### Importance of Health
+### About Health
 
 <p align="center">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/82595288/228840596-f94e6248-8d52-4a7d-a6ac-16b23566fcac.png">  
@@ -37,10 +37,10 @@
 ***`Don't give up! We're always by your side.`***
   
   Health refers to a state in which the body and mind are functioning well without any pain or discomfort. It signifies complete functioning and well-being in terms of an individual's ***physiological***, ***psychological***, and ***social aspects***. Health is associated with vitality, energy, and quality of life that we experience on a daily basis.
+  
+### The importance of health
+The growing emphasis on the significance of health in today's society is ***undeniable***, as it holds a prime position among the most crucial values in our lives. When we possess good health, it enables us to pursue more and lead a contented life. Conversely, if our health is poor, it may bring discomfort in daily activities and cause a decline in the quality of our lives. Therefore, maintaining good health is pivotal, as it constitutes one of the most critical factors that contribute to enhancing the overall happiness and quality of our lives.
 
-Plogging is a combination of Jogging with picking up litter merging the Swedish verbs ***plocka*** upp (pick up) and ***jogga***(jog) gives the new Swedish verb ***plogga***.
-The key to plogging is not just the concept of environmental protection of picking up trash, but approaching picking up trash as one of the health-training exercises. The advantage is that it consumes more physical strength than general jogging. While jogging normally with a garbage bag, if you encounter illegally dumped garbage, pick it up and put it in a garbage bag.
-In fact, according to a survey by Swedish fitness app Life Island, people who jog only for 30 minutes consume an average of 235kcal, but those who plogging at the same time consume 288kcal. In other words, it doubles the effectiveness of exercise.
 
 ## What is Sustainable Development Goals?
 
