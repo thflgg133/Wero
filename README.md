@@ -56,7 +56,7 @@ Wero is an application that can manage physical health as well as mental health,
 ### The reason why we named "Wero"
 ![image](https://user-images.githubusercontent.com/82595288/228853918-aa32e6e4-3823-4547-8845-95c0c072c8ec.png)
   
-"Wero" means "comfort" in Korean. Additionally, "comfort" is an abbreviation of "we are around u," which represents our commitment to always be by the user's side, managing their physical and mental health. With the slogan "When you feel tired and exhausted, join us. I'm always waiting for you in this place," "Wero" is an app that provides users with the gift of health.
+"Wero" means "Consolation" in Korean. Additionally, "Wero" is an abbreviation of "We are around u," which represents our commitment to always be by the user's side, managing their physical and mental health. With the slogan "When you feel tired and exhausted, join us. I'm always waiting for you in this place," "Wero" is an app that provides users with the gift of health.
 
 ## Components
 
