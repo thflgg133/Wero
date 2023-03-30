@@ -63,17 +63,12 @@ As can be seen in the figure above, there are 17 goals.
 ### Our goal
 We decided to create a Flutter application with the goal of ensuring health and promoting well-being for all age groups, among the United Nations' 17 sustainable development goals (SDGs). After the COVID-19 pandemic, we came across an article stating that there is a significant increase in people's interest in health. After reading this article, we began developing an application with the main idea of diagnosing the health status of people all over the world and managing their health through the application, especially for those who are too busy to take care of their health.
   
-Our Team "Wero" aims to ensure health and promote the welfare of people of all ages.
-These days, modern people do not show and express their emotions well, so it has been confirmed that mental fatigue increases and affects the body.
-In this situation, we developed wero, an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
-
-
 #### Good Health and Well-Being
 
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/33146152/160327288-21a43bdc-3de2-4d36-a26e-9953dc86bc4f.png">
 Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
 
-### The reason why we named "Isak"
+### The reason why we named "Wero"
 
 ![image](https://user-images.githubusercontent.com/33146152/160325415-8deaab92-23fd-44fe-aa66-74c3d70f5181.png)
 
