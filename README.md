@@ -69,8 +69,7 @@ We decided to create a Flutter application with the goal of ensuring health and 
 Wero is an application that can manage physical health as well as mental health, and furthermore build consensus based on physical and health levels rather than specific age groups.
 
 ### The reason why we named "Wero"
-
-![image](https://user-images.githubusercontent.com/33146152/160325415-8deaab92-23fd-44fe-aa66-74c3d70f5181.png)
+![image](https://user-images.githubusercontent.com/82595288/228853918-aa32e6e4-3823-4547-8845-95c0c072c8ec.png)
 
 During the plogging process, you naturally bend your back. So we thought this posture was very similar to the prople from one of the famous paintings, "The Gleaners".
 In Korean, "the Gleaners" sounds like "Isak". Therefore, our team decided the logo and application name in this way.
