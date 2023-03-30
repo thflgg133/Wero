@@ -11,22 +11,6 @@
 
 ## Table of Contents
 
-- [Getting_Started](#getting_started)
-- [Components](#components)
-- [Main_Function](#main_function)
-  - [Main](#main)
-  - [Start Running](#start-running)
-  - [Start Plogging](#start-plogging)
-  - [Trash Classification & Object Detection](#trash-classification-and-object-detection)
-    - [Classification](#classification-model)
-    - [Object Detection](#trash-object-detection-(-new-feature-))
-  - [Finish](#finish)
-- [Sub_Function](#sub_function)
-- [Futhermore](#furthermore)
-- [Download](#download-apk)
-- [API](#api)
-- [Contributors](#contributors)
-
 ## Getting_Started
 
 ### About Health
