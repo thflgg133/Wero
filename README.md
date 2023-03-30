@@ -51,9 +51,8 @@ Wero is an application that can manage physical health as well as mental health,
 <br/><br/>
 We decided to create a Flutter application with the goal of ensuring health and promoting well-being for all age groups, among the United Nations' 17 sustainable development goals (SDGs). After the COVID-19 pandemic, we came across an article stating that there is a significant increase in people's interest in health. After reading this article, we began developing an application with the main idea of diagnosing the health status of people all over the world and managing their health through the application, especially for those who are too busy to take care of their health.
 <br/><br/>
-### The reason why we named "Wero"
-![image](https://user-images.githubusercontent.com/82595288/228853918-aa32e6e4-3823-4547-8845-95c0c072c8ec.png)
   
+### The reason why we named "Wero"
 "Wero" means "Consolation" in Korean. Additionally, "Wero" is an abbreviation of "We are around u," which represents our commitment to always be by the user's side, managing their physical and mental health. With the slogan "When you feel tired and exhausted, join us. I'm always waiting for you in this place," "Wero" is an app that provides users with the gift of health.
 <br/><br/>
 ### Expected effect
