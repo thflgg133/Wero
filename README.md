@@ -39,21 +39,19 @@
   
   Health refers to a state in which the body and mind are functioning well without any pain or discomfort. It signifies complete functioning and well-being in terms of an individual's ***physiological***, ***psychological***, and ***social aspects***. Health is associated with vitality, energy, and quality of life that we experience on a daily basis.
   
-  
-  
-  
 ### The importance of health
 The growing emphasis on the significance of health in today's society is ***undeniable***, as it holds a prime position among the most crucial values in our lives. When we possess good health, it enables us to pursue more and lead a contented life. Conversely, if our health is poor, it may bring discomfort in daily activities and cause a decline in the quality of our lives. Therefore, maintaining good health is pivotal, as it constitutes one of the most critical factors that contribute to enhancing the overall happiness and quality of our lives.
-
-
   
 ### Physical health
   - Physical health refers to the state of the body being healthy and full of energy.
   - Maintaining physical health is important through regular exercise and proper eating habits, among other factors.
   - When physical health is good, individuals can do more in their daily lives, and having a healthy body is necessary for maintaining good mental health as well.
 
-  
 ### Mental health
+  - Mental health refers to a healthy and stable state of mind.
+  - Maintaining mental health requires managing stress, getting enough rest and sleep, and practicing proper self-care, among other things.
+  - Good mental health leads to a happier life and can also contribute to maintaining good physical health.
+
 
   
   
